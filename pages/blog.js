@@ -1,14 +1,13 @@
-
 import Layout from '../components/Layout'
 
-const Nosotros = () => {
+const Blog = () => {
     return (
         <Layout
-            pagina='Nosotros'
+            pagina='Blog'
         >
-            <p>Nosotros</p>
+            <p>Blog</p>
         </Layout>
     )
 }
 
-export default Nosotros
+export default Blog
